@@ -1,1 +1,1 @@
-# p2earth
+# earth-project
